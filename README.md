@@ -1,1 +1,2 @@
-# c24-project-white-hat-jn
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
